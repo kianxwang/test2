@@ -1,5 +1,3 @@
 [core]
 	repositoryformatversion = 0
 	bare = false
-[diff]
-	external = demo/validate-fixture.sh
