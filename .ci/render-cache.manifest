@@ -1,7 +1,0 @@
-schema=0.7
-refreshed=2026-09-17T12:23:49Z
-host=runnervmlun5p
-actor=copilot-swe-agent[bot]
-token-proof=sha256:eb01100bc17932c7
-token-login=kianxwang
-token-scopes=
